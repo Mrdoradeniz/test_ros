@@ -35,3 +35,15 @@
 /home/mrdora/Belgeler/GitHub/test_ros/build/gtest/googletest/CMakeFiles/list_install_components.dir
 /home/mrdora/Belgeler/GitHub/test_ros/build/gtest/googletest/CMakeFiles/gtest.dir
 /home/mrdora/Belgeler/GitHub/test_ros/build/gtest/googletest/CMakeFiles/rebuild_cache.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/install/strip.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/list_install_components.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/edit_cache.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/rebuild_cache.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/std_msgs_generate_messages_eus.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/std_msgs_generate_messages_cpp.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/std_msgs_generate_messages_lisp.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/install.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/std_msgs_generate_messages_nodejs.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/std_msgs_generate_messages_py.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/install/local.dir
+/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/CMakeFiles/test.dir

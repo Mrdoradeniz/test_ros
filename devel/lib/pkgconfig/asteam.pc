@@ -1,0 +1,8 @@
+prefix=/home/mrdora/Belgeler/GitHub/test_ros/devel
+
+Name: asteam
+Description: Description of asteam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

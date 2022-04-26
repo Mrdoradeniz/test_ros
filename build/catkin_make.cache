@@ -1,2 +1,2 @@
-
+asteam
 -DCATKIN_DEVEL_PREFIX=/home/mrdora/Belgeler/GitHub/test_ros/devel -DCMAKE_INSTALL_PREFIX=/home/mrdora/Belgeler/GitHub/test_ros/install -G Unix Makefiles

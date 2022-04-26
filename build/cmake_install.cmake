@@ -136,6 +136,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/mrdora/Belgeler/GitHub/test_ros/build/gtest/cmake_install.cmake")
+  include("/home/mrdora/Belgeler/GitHub/test_ros/build/asteam/cmake_install.cmake")
 
 endif()
 

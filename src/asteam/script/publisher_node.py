@@ -1,6 +1,6 @@
 
 import queue
-import roslib; roslib.load_manifest('asteam')
+import roslib;
 import rospy 
 from std_msgs.msg import String
 
@@ -8,9 +8,10 @@ from std_msgs.msg import String
 
 def send_data():
 
-    publisher_node=rospy.publisher("my_topic",String,queue_size=10)
+    publisher_node=rospy.Publisher("my_topic",String,queue_size=10)
     rospy.init_node("publisher1",anonymous=True)
-
+    rate=rospy.Rate(1)
+    rospy.loginfo("Loggedn in")
 
     while not rospy.is_shutdown():
 
@@ -18,7 +19,7 @@ def send_data():
 
         publisher_node.publish(msg)
 
-
+        rate.sleep()
 
 
 
